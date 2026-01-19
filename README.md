@@ -4,7 +4,7 @@ This is a full-stack web application built using **React**, **TypeScript**, **No
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
@@ -27,9 +27,9 @@ This is a full-stack web application built using **React**, **TypeScript**, **No
 - Prisma Migrate
 
 ---
-## 🛠 Backend Setup (Node.js + TypeScript + Prisma)
+## Backend Setup (Node.js + TypeScript + Prisma)
 
-### 1️⃣ Navigate to Backend Folder
+###  Navigate to Backend Folder
 ```bash
 cd backend
 npm install
@@ -42,7 +42,7 @@ node dist/index.js
 ```
 ## 🛠 Frontend Setup (React+ TypeScript + Tailwind)
 
-### 1️⃣ Navigate to Frontend Folder
+### Navigate to Frontend Folder
 ```bash
 cd ../frontend
 npm install
