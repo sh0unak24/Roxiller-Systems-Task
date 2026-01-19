@@ -128,7 +128,7 @@ Api Structure :
 
 ---
 
-## 🏬 Store Routes (`/api/v1/store`)
+## Store Routes (`/api/v1/store`)
 
 Store-related routes are handled internally and are accessed by **Admins** and **Users** based on roles.
 
